@@ -1,11 +1,3 @@
-/* Thomsoon.com - OnePage CSS Responsive
--- version 1.0
--- Copyright (c) 2014 Thomsoon.com
--- licensed under the MIT
---
--- http://www.thomsoon.com/
---
-*/
 
 
 /* iPad (portrait) */
@@ -312,7 +304,7 @@ textarea{
   position:relative;
 }
 
-.contact .content .form{
+.contact .content{
   width:355px;
 }
 
@@ -328,11 +320,11 @@ textarea{
   width:275px;
 }
 
-.contact .content .form .column, .contact .content .form .column-3{
+.contact .content .column, .contact .content .column-3{
   width:450px;
 }
 
-.contact .content .form .column-2{
+.contact .content .column-2{
   width:450px;
   padding-left:0;
 }
