@@ -54,20 +54,8 @@ h1 {
   width:300px;
 }
 
-.partners .content{
-  width:300px;
-}
 
-.partners .logo {
-  width:300px;
-}
-
-.partners .logo img {
-  width:80px;
-  padding-bottom:20px;
-}
-
-.contact, .contact .content, .contact .content .form{
+.contact, .contact .content{
   width:300px;
 }
 
@@ -78,23 +66,16 @@ h1 {
   margin-top:60px;
 }
 
-input{
-  width:320px;
-}
-
-textarea{
-  width:320px;
-}
 
 .contact .content .contact-text {
   width:275px;
 }
 
-.contact .content .form .column, .contact .content .form .column-3{
+.contact .content .column, .contact .content .column-3{
   width:320px;
 }
 
-.contact .content .form .column-2{
+.contact .content .column-2{
   width:320px;
   padding-left:0;
 }
@@ -109,6 +90,7 @@ textarea{
 
 .footer{
   position:relative;
+  width:300px;
 }
 
 }
@@ -130,9 +112,6 @@ textarea{
   width:540px;
 }
 
-.partners .logo img {
-  padding-bottom:20px;
-}
 
 .start-page .content {
   width:300px;
@@ -177,20 +156,8 @@ h1 {
   width:300px;
 }
 
-.partners .content{
-  width:400px;
-}
 
-.partners .logo {
-  width:400px;
-}
-
-.partners .logo img {
-  width:80px;
-  padding-bottom:20px;
-}
-
-.contact, .contact .content, .contact .content .form{
+.contact, .contact .content, .contact .content{
   width:300px;
 }
 
@@ -205,11 +172,11 @@ h1 {
   width:275px;
 }
 
-.contact .content .form .column, .contact .content .form .column-3{
+.contact .content .column, .contact .content .column-3{
   width:420px;
 }
 
-.contact .content .form .column-2{
+.contact .content .column-2{
   width:420px;
   padding-left:0;
 }
@@ -220,17 +187,7 @@ h1 {
 
 .footer{
   position:relative;
-}
-
-input{
-  width:420px;
-}
-
-textarea{
-  width:420px;
-}
-
-
+  width:500px;
 }
 
 
@@ -284,13 +241,6 @@ textarea{
   width:600px;
 }
 
-.partners .content{
-  width:700px;
-}
-
-.partners .logo {
-  width:700px;
-}
 
 .contact{ 
   margin:0 auto;
@@ -308,14 +258,6 @@ textarea{
   width:355px;
 }
 
-input{
-  width:320px;
-}
-
-textarea{
-  width:320px;
-}
-
 .contact .content .contact-text {
   width:275px;
 }
@@ -329,5 +271,7 @@ textarea{
   padding-left:0;
 }
 
-
+.footer{
+  position:relative;
+  width:700px
 }
